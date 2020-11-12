@@ -3,9 +3,9 @@
 ### فاطمه مودتی شولمی
  
 ---
-- [حساب گیت هاب](https://github.com/fatemehmaveddati/)
+- [ACCOUNT][حساب گیت هاب](https://github.com/fatemehmaveddati/)
 
-- [رزومه](https://fatemehmaveddati.github.io/)
+- [RESUME][رزومه](https://fatemehmaveddati.github.io/)
 
 - [SOP](https://fatemehmaveddati.github.io/SOP/)
 
