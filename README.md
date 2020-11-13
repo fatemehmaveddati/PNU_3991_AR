@@ -3,13 +3,11 @@
 ### فاطمه مودتی شولمی
  
 ---
-- [ACCOUNT] [حساب گیت هاب](https://github.com/fatemehmaveddati/)
-
-- [RESUME] [رزومه](https://fatemehmaveddati.github.io/)
-
+- [GITHUB](https://github.com/fatemehmaveddati/)
+- [RESUME](https://fatemehmaveddati.github.io/)
 - [SOP](https://fatemehmaveddati.github.io/SOP/)
-- [Certificates]()
-- [Jlord patchwork](patchwork.png)
+- [Certificates](https://github.com/fatemehmaveddati/certificates)
+
 
 ------------------
 ## Winter Semester Courses 1399/2020
