@@ -7,7 +7,7 @@
 - [GITHUB](https://github.com/fatemehmaveddati/)
 - [RESUME](https://fatemehmaveddati.github.io/)
 - [SOP](https://fatemehmaveddati.github.io/SOP/)
-- [Certificates](https://github.com/fatemehmaveddati/certificates)
+- [Certificates](https://fatemehmaveddati.github.io/certificates/)
 
 
 ------------------
