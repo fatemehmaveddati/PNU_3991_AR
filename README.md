@@ -10,7 +10,11 @@
 - [Certificates](https://fatemehmaveddati.github.io/certificates/)
 
 
-------------------
+-----------------
+>ارزیابی ها
+##بخش عمومی
+-[ارزیابی رزومه و انگیزه نامه]
+-[خلاصه ارزیابی بخش عمومی] 
 ## Winter Semester Courses 1399/2020
 
 ## دروس کارشناسی
