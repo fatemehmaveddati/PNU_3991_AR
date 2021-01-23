@@ -38,7 +38,7 @@
 
 ### معرفی یک درس مشابه در دانشگاه های دیگر
 - [Shahid Beheshti University](https://www.sbu.ac.ir/cols/Pages/default.aspx)
-
+- [Gilan University](https://guilan.ac.ir/en/home)
 - [سرفصل درس تعامل انسان و کامپیوتر](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/Course%20topic%20of%20humancomputerinteraction)
 
 ------------------
