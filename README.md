@@ -41,7 +41,7 @@
 
 - [Gilan University](https://guilan.ac.ir/en/home)
 
-- [سرفصل درس تعامل انسان و کامپیوتر](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/Course%20topic%20of%20humancomputerinteraction)
+- [Course topic of HumanComputerInteraction](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/Course%20topic%20of%20humancomputerinteraction)
 
 ------------------
 
