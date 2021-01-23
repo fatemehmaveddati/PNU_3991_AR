@@ -41,7 +41,7 @@
 
 - [Gilan University](https://guilan.ac.ir/en/home)
 
-- [Curriculum HumanComputerInteraction]()
+- [Curriculum HumanComputerInteraction](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/Curriculum%20humancomputerinteraction)
 -------------
 - [AmirKabir University Of Technology(AUT)(Tehran Polytechnic)](https://aut.ac.ir/index.php)
 - [Curriculum UserInterfaceDesign]()
