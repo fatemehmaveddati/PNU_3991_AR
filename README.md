@@ -39,7 +39,7 @@
 ### معرفی یک درس مشابه در دانشگاه های دیگر
 - [Shahid Beheshti University](https://www.sbu.ac.ir/Cols/CSE/Pages/%da%86%d8%a7%d8%b1%d8%aa-%da%af%d8%b1%d9%88%d9%87-%d9%87%d8%a7%db%8c-%d8%a2%d9%85%d9%88%d8%b2%d8%b4%db%8c.aspx)
 
-- [سرفصل درس تعامل انسان و کامپیوتر]()
+- [سرفصل درس تعامل انسان و کامپیوتر](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/Course%20topic%20of%20humancomputerintraction)
 
 ------------------
 
