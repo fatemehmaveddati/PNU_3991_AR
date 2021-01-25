@@ -64,7 +64,7 @@
 ### معرفی یک درس مشابه در دانشگاه های دیگر
 
 --------------
-- [humanComputerInteraction]()
+- [humanComputerInteraction](<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" width=30% /></a>)
 - [Kharazmi University](https://khu.ac.ir/)
 ---------------------
 - [AmirKabir University Of Technology(AUT)(Tehran Polytechnic)](https://aut.ac.ir/index.php)
