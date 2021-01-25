@@ -67,8 +67,9 @@
 - [humanComputerInteraction](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png)
 - [Kharazmi University](https://khu.ac.ir/)
 ---------------------
+- [UserInterfaceDesign](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/91yP51Q8iXL.jpg)
 - [AmirKabir University Of Technology(AUT)(Tehran Polytechnic)](https://aut.ac.ir/index.php)
-- [Curriculum UserInterfaceDesign](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/Curriculum%20User%20interface%20design/Curriculum%20User%20interface%20design.jpg)
+
 ------------------
 
 ## Winter Semester Courses 1399/2020
