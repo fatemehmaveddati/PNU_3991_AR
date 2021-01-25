@@ -39,7 +39,7 @@ Third edition
 ### - [طرح دستی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/prototype%20.mp4)
 ### - [وایر فریم](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/wire%20frame%20menu%20XD%20(1).xd)
 ### - [نمونه سازی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
-### - [ارائه نهایی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/Erae%20koli.mp4)
+### - [ارائه نهایی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/Erae%20koli.mp4)
 ### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ---------
 
