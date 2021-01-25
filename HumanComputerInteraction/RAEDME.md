@@ -37,7 +37,7 @@ Third edition
 + منو هم کاملا واضح و ساده و همراه با آیکون هایی واضح طراحی شده است.
 
 ### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/hand%20drawn%20wireframe%201_.jpg)
-### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/wire%20frame%20menu%20XD.xd)
+### - [وایر فریم]((https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/handdrawnwireframe1-.jpg/jpg.jpg)
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
 ### - [ارائه نهایی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/Erae%20koli.mp4)
 ### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991.pdf)
