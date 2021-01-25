@@ -26,7 +26,7 @@ Third edition
 ### تحلیل نیاز ها 
 
 توضیحات و تحلیل های اعضای گروه در فایل زیر نوشته شده است
- - [ توضیحات پروژه و گزارش گروهی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/gozaresh%20gorohi.pdf)
+ - [ توضیحات پروژه و گزارش گروهی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/gozaresh%20gorohi.pdf)
  
 ### - [تجربه کاربری](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/prototype%20.mp4)
 + اولین چیزی که کاربر در سایت آن را می بیند و دنبال آن می گردد منو بار است.
