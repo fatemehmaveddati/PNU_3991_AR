@@ -35,7 +35,7 @@ Ben Shneiderman
 + و همچنین برای ورود و ثبت نام کاربر نیاز نیست دنبال دکمه بگردد چون دکمه دقیقا در درد اوست.
 + منو هم کاملا واضح و ساده و همراه با آیکون هایی واضح طراحی شده است.
 
-### - [طرح دستی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/hand%20drawn%20wireframe%201_.jpg)
+### - [طرح دستی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/handdrawnwireframe1-.jpg/jpg.jpg)
 ### - [وایر فریم](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/wire%20frame%20menu%20XD.xd)
 ### - [نمونه سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20.xd)
 ### - [ارائه نهایی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/Erae%20koli.mp4)
