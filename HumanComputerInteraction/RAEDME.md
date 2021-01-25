@@ -5,7 +5,7 @@
 
  تعامل انسان و رایانه، دانشگاه خوارزمی
 
-<a  target="_blank"><https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/hci%20book.png/hci%20book.png /></a>
+<a  target="_blank"><img src=""border="0" alt="picture of book" width=30%/></a>
 
 Human Computer Interaction
 
