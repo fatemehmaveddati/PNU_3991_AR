@@ -63,8 +63,10 @@
 
 ### معرفی یک درس مشابه در دانشگاه های دیگر
 
--------------
+--------------
+- [humanComputerInteraction]()
 - [Kharazmi University](https://khu.ac.ir/)
+---------------------
 - [AmirKabir University Of Technology(AUT)(Tehran Polytechnic)](https://aut.ac.ir/index.php)
 - [Curriculum UserInterfaceDesign](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/Curriculum%20User%20interface%20design/Curriculum%20User%20interface%20design.jpg)
 ------------------
