@@ -2,8 +2,7 @@
 <div dir=rtl >
  
 ### معرفی یک درس مشابه
-
- تعامل انسان و رایانه، دانشگاه خوارزمی
+تعامل انسان و رایانه، دانشگاه خوارزمی
 <a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" width=30% /></a>
 
 Human Computer Interaction
