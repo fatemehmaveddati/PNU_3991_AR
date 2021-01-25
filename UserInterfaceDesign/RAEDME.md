@@ -27,7 +27,7 @@ Ben Shneiderman
 توضیحات پروژه و جمع بندی تحلیل های اعضای گروه در فایل زیر نوشته شده است.
  - [ توضیحات پروژه و گزارش گروهی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/gozaresh%20gorohi.pdf)
  
-### - [تجربه کاربری](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/prototype%20.mp4)
+### - [تجربه کاربری](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/prototype%20.mp4)
 + اولین چیزی که کاربر در سایت آن را می بیند و دنبال آن می گردد منو بار است.
 + ابتدا کاربر منو بار را مشاهده میکند و با دیدن آن متوجه میشود که هم میتواند در منو دنبال آن بگردد هم در سرچ منو میتواند مطلب مورد نیاز خود را سرچ کند.
 + منو بار دسته بندی شده است و با رفتن روی مطلب مورد نظر میتوان دوره مورد نظر را پیدا کرد.
