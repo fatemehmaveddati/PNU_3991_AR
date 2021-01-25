@@ -27,9 +27,9 @@
 
 ## بخش دروس کارشناسی
 
-[خلاصه ارزیابی درس تعامل انسان و کامپیوتر]
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/HumanComputerInteraction/FM_HumanComputerInteraction_CheckList_AR_3991.pdf)
 <br>
-[خلاصه ارزیابی درس طراحی واسط کاربر]
+- [خلاصه ارزیابی درس طراحی واسط کاربر]
 
 -----------------
 
