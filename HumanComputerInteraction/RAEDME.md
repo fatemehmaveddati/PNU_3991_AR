@@ -5,8 +5,7 @@
 
  تعامل انسان و رایانه، دانشگاه خوارزمی
 
-<a  target="_blank"><img src="https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/hci%20book.png/hci%20book.png"border="0" alt="picture of book" width=30%/></a>
-
+<a  target="_blank"><img src="https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/hci%20book.png" border="0" alt="picture of book" width=30% /></a>
 Human Computer Interaction
 
 Alan Dix, Janet Finaly, Gregory g. Abowd, Russel Beale
