@@ -39,7 +39,7 @@ Third edition
 ### - [وایر فریم](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/HumanComputerInteraction/wier%20frame%20menu%20XD.xd)
 ### - [نمونه سازی](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/HumanComputerInteraction/Menu.xd)
 ### - [ارائه نهایی](https://github.com/fatemehmaveddati/PNU_3991_AR/tree/main/HumanComputerInteraction/Erae%20Koli)
-### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/HumanComputerInteraction/BBS_HumanComputerInteraction_CheckList_AR_3991.pdf)
+### - [ارزیابی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/HumanComputerInteraction/FM_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ---------
 
 ### :اعضای گروه
