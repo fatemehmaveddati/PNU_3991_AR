@@ -37,11 +37,7 @@
 
 
 ### معرفی یک درس مشابه در دانشگاه های دیگر
-- [Shahid Beheshti University](https://www.sbu.ac.ir/cols/Pages/default.aspx)
 
-- [Gilan University](https://guilan.ac.ir/en/home)
-
-- [Curriculum HumanComputerInteraction](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/Curriculum%20humancomputerinteraction/Curriculum%20humancomputerinteraction.jpg)
 -------------
 - [AmirKabir University Of Technology(AUT)(Tehran Polytechnic)](https://aut.ac.ir/index.php)
 - [Curriculum UserInterfaceDesign](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/Curriculum%20User%20interface%20design/Curriculum%20User%20interface%20design.jpg)
