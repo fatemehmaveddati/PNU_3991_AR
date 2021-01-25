@@ -36,7 +36,7 @@ Third edition
 + و همچنین برای ورود و ثبت نام کاربر نیاز نیست دنبال دکمه بگردد چون دکمه دقیقا در درد اوست.
 + منو هم کاملا واضح و ساده و همراه با آیکون هایی واضح طراحی شده است.
 
-### - [طرح دستی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/prototype%20.mp4)
+### - [طرح دستی](https://https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/screenshot(57).png.jpggithub.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/handdrawnwireframe1-.jpg.jpg)
 ### - [وایر فریم](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/wire%20frame%20menu%20XD%20(1).xd)
 ### - [نمونه سازی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/menu%20.xd)
 ### - [ارائه نهایی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/HumanComputerInteraction/Erae%20koli.mp4)
