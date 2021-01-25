@@ -39,7 +39,7 @@ Ben Shneiderman
 ### - [وایر فریم](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/wire%20frame%20menu%20XD.xd)
 ### - [نمونه سازی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/menu%20%20(1).xd)
 ### - [ارائه نهایی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/Erae%20koli.mp4)
-### - [ارزیابی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/BBS_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+### - [ارزیابی](https://github.com/fatemehmaveddati/PNU_3991_AR/blob/main/UserInterfaceDesign/FM_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 ### - [پیاده سازی](https://github.com/BaharbSalmas/PNU_3991_AR/blob/main/UserInterfaceDesign/Screenshot%20(57).png)
 + پیاده سازی کامل نیست و چون در لیست ارزیابی نمره اضافه داشت، 
 ما در گروهمان تا جایی که وقت داشتیم سعی کردیم طراحی را پیاده سازی کنیم. 
